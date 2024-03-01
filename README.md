@@ -1,6 +1,4 @@
-# chatgpt-retrieval
-
-Simple script to use ChatGPT on your own files.
+# Langchain for arxiv data
 
 ## Installation
 
